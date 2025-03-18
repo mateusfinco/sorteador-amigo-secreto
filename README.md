@@ -88,7 +88,7 @@ A aplicação é compatível com todos os navegadores modernos:
 
 ## Autor
 
-Mateus Mendes - mateusmendesjd@gmail.com
+Mateus Mendes - mateus.mendes@unifesspa.edu.br
 
 ---
 
